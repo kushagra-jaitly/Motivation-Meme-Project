@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&family=Libre+Baskerville&display=swap');
+
+.h1 {
+    font-family: 'Libre Baskerville';
+    text-align: center;
+    color: azure;
+}
+
+.img {
+    text-align: center;
+    margin: 3% 10%;
+}
+
+.p {
+    text-align: center;
+    color: aliceblue;
+}
+* {
+    background-color: black;
+}
+.cat {
+    border: 5px solid white;
+}
